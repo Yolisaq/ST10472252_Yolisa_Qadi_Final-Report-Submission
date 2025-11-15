@@ -41,14 +41,21 @@ pip install -r requirements.txt
 
 bash
 python src/preprocess.py
+
 python src/analysis_descriptive.py
+
 python src/analysis_trends.py
+
 python src/model_prophet.py
+
 python src/model_ml.py
+
 📊 Outputs → outputs/Chapter4_Figures/ 📑 Tables → outputs/tables/
 
 📈 Key Figures
+
 📉 Line plot: PV generation (2021–2025)
+
 📦 Boxplots: Annual & monthly PV output
 🔮 Forecasts: Predicted vs. actual PV (2026–2030)
 🌐 Correlation heatmap: irradiance, capacity, UCLF
