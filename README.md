@@ -7,13 +7,16 @@ A reproducible analysis and forecasting pipeline for South Africa’s solar PV g
 🧮 Methods: Descriptive stats, correlation analysis, Prophet time-series, Linear Regression, Random Forest.
 🖼️ Outputs: Figures in Chapter4_Figures/ + CSV tables in outputs/tables/.
 
-📂 Repository Structure
-text
-.
+📂 Repository Structure text.
+
 ├── data/                     # 📊 Input datasets
+
 ├── notebooks/                # 📓 Exploratory notebooks
+
 ├── src/                      # ⚙️ Core scripts
+
 ├── outputs/                  # 📈 Figures + tables
+
 ├── environment.yml           # 🐍 Conda environment
 ├── requirements.txt          # 📦 Pip dependencies
 └── README.md                 # 📘 This file
