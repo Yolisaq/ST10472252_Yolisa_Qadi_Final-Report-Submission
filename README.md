@@ -18,8 +18,11 @@ A reproducible analysis and forecasting pipeline for South Africa’s solar PV g
 ├── outputs/                  # 📈 Figures + tables
 
 ├── environment.yml           # 🐍 Conda environment
+
 ├── requirements.txt          # 📦 Pip dependencies
+
 └── README.md                 # 📘 This file
+
 ⚙️ Environment Setup
 🐍 Python 3.10–3.13
 
