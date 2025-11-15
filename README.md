@@ -38,10 +38,16 @@ Or with pip:
 
 bash
 python -m venv .venv
+
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
+
 pip install -r requirements.txt
+
 🚀 Quick Start
-1️⃣ Place cleaned dataset in data/eskom_pv_2021_2025.csv. 2️⃣ Run the pipeline:
+
+1️⃣ Place cleaned dataset in data/eskom_pv_2021_2025.csv. 
+
+2️⃣ Run the pipeline:
 
 bash
 python src/preprocess.py
